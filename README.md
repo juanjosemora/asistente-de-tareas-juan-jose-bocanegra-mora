@@ -236,6 +236,8 @@ firebase init hosting
 # Desplegar
 npm run build
 firebase deploy
+
+https://asistenteia-f4efd.web.app/chat
 ```
 
 ### Verificación de Despliegue
